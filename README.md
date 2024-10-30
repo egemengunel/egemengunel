@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @egemengunel
 - 👀 I’m interested in anything tech related
-- 🌱 I’m currently learning C#, will try to get started on Swift
-- 📫 You can reach me on telegram @egemengnl
+- 🌱 I’m currently learning ML with Python, Swift with SwiftUI.
+- 📫 You can reach me on telegram @egemengnl or X; @OnlyTrueNote7
