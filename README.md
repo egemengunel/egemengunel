@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @egemengunel
 - 👀 I'm interested in anything tech related
-- 🌱 I'm currently learning iOS Development with Swift.
+- 🌱 I'm currently learning iOS Development with Swift and Web Development with Nuxt/Typescript.
 - 📬 You can reach me at egemengunel@gmail.com or my [website](https://egemengunel.dev)
